@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"Crema para peinar modeladora cabellos rizados",
+        "category":"cremas",
+        "description":"Crema para peinar modeladora 300 ml",
+        "price":456,
+        "stock":4,
+        "image":"https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwa647a6e5/1200x1200/117084_1.jpg"
+    },
+    {
+        "id":2,
+        "title":"Hidratante de Manos Flor de Lis 50ml",
+        "category":"cremas",
+        "description":"Hidratante de Manos Flor de Lis 50ml",
+        "price":1245,
+        "stock":6,
+        "image":"https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw79064aa6/1200x1200/72177_1_v2.jpg"
+    },
+    {
+        "id":3,
+        "title":"Tónico tratamiento intensivo",
+        "category":"cremas",
+        "description":"Tónico tratamiento intensivo",
+        "price":3865,
+        "stock":1,
+        "image":"https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dwdca7e7fa/1200x1200/27242_2.jpg"
+    },
+    {
+        "id":4,
+        "title":"Jabones en barra puro vegetal romero y salvia",
+        "description":"Jabones en barra puro vegetal romero y salvia 5 unidades de 90 g c u",
+        "category":"cremas",
+        "price": 2005,
+        "stock":5,
+        "image":"https://production.na01.natura.com/on/demandware.static/-/Sites-natura-ar-storefront-catalog/default/dw155c48dd/1200x1200/72147_1.jpg"
+    }
+]
